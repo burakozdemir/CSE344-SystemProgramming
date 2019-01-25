@@ -1,0 +1,7 @@
+all:compile
+
+compile:
+	gcc -o hw3 main.c cd.c help.c cat.c wc.c pwd.c ls.c 
+run:
+	./hw3
+clean:

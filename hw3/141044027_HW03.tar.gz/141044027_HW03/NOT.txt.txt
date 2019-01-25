@@ -1,0 +1,4 @@
+Hocam öncelikle kolay gelsin . Biliyorum sunduðum þey bahane olmamalý ama bu notu eklemem gerek . 
+1.5 gün önce bilgisayarým bozuldu hiç açýlmamaya baþladý bende memlekette oldugum için bilgisayar bulmakta zorlandým.
+Ödevi baþtan yapmaya baþladým ve windows üzerinden geliþtirdim . Makefile ý test edemedim oldgu kadar 
+biþeyler yapmaya çalýþtým bilginize sunmak istedim. Ýyi çalýþmalar .
